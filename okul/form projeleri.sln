@@ -1,0 +1,82 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "okul_2 2.1.25", "okul\okul_2 2.1.25.csproj", "{F9ECB5CE-77DB-4999-97B8-CA75F3AAD2EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "final ortalaması hesaplama", "final ortalaması hesaplama\final ortalaması hesaplama.csproj", "{0AF4E540-0E2A-43FB-A7B3-5892DA79CE46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "faktoriyel hesaplama", "faktoriyel hesaplama\faktoriyel hesaplama.csproj", "{8316C0FE-B4D9-4727-81C3-0437FB5EB420}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dikdörtgen alan hesaplama", "dikdörtgen alan hesaplama\dikdörtgen alan hesaplama.csproj", "{7411FD9C-AA62-4E04-AF53-67E7861D4227}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "girilen aralıkta sayı yazdırma", "girilen aralıkta sayı yazdırma\girilen aralıkta sayı yazdırma.csproj", "{6D9995C2-D2DB-47EB-AA56-D232C97024FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "radio button ile dört işlem", "radio button ile dört işlem\radio button ile dört işlem.csproj", "{3125532B-C4D4-42A7-A2D5-4691BA8BFAB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hesap makinesi", "hesap makinesi\hesap makinesi.csproj", "{CB18F7C6-C255-44C9-9473-BD32EE347F9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "okul_1", "buton ile form açma\okul_1.csproj", "{EFF33101-2732-402F-BB77-B04060F8AB35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iki sayı arası", "iki sayı arası sayıların toplamı\iki sayı arası.csproj", "{4715B8E4-5E65-438F-9087-BF5A6DC323DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "listboxlar arası geçiş", "listboxlar arası geçiş\listboxlar arası geçiş.csproj", "{FB69EC56-B59E-44B9-828F-93852F9E3318}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "listboxdakileri topla", "listboxtak\listboxdakileri topla.csproj", "{9E002149-FCC6-4729-A692-5AACB5E36415}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9ECB5CE-77DB-4999-97B8-CA75F3AAD2EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9ECB5CE-77DB-4999-97B8-CA75F3AAD2EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9ECB5CE-77DB-4999-97B8-CA75F3AAD2EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9ECB5CE-77DB-4999-97B8-CA75F3AAD2EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AF4E540-0E2A-43FB-A7B3-5892DA79CE46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AF4E540-0E2A-43FB-A7B3-5892DA79CE46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AF4E540-0E2A-43FB-A7B3-5892DA79CE46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AF4E540-0E2A-43FB-A7B3-5892DA79CE46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8316C0FE-B4D9-4727-81C3-0437FB5EB420}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8316C0FE-B4D9-4727-81C3-0437FB5EB420}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8316C0FE-B4D9-4727-81C3-0437FB5EB420}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8316C0FE-B4D9-4727-81C3-0437FB5EB420}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7411FD9C-AA62-4E04-AF53-67E7861D4227}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7411FD9C-AA62-4E04-AF53-67E7861D4227}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7411FD9C-AA62-4E04-AF53-67E7861D4227}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7411FD9C-AA62-4E04-AF53-67E7861D4227}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D9995C2-D2DB-47EB-AA56-D232C97024FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D9995C2-D2DB-47EB-AA56-D232C97024FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D9995C2-D2DB-47EB-AA56-D232C97024FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D9995C2-D2DB-47EB-AA56-D232C97024FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3125532B-C4D4-42A7-A2D5-4691BA8BFAB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3125532B-C4D4-42A7-A2D5-4691BA8BFAB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3125532B-C4D4-42A7-A2D5-4691BA8BFAB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3125532B-C4D4-42A7-A2D5-4691BA8BFAB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB18F7C6-C255-44C9-9473-BD32EE347F9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB18F7C6-C255-44C9-9473-BD32EE347F9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB18F7C6-C255-44C9-9473-BD32EE347F9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB18F7C6-C255-44C9-9473-BD32EE347F9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFF33101-2732-402F-BB77-B04060F8AB35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFF33101-2732-402F-BB77-B04060F8AB35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFF33101-2732-402F-BB77-B04060F8AB35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFF33101-2732-402F-BB77-B04060F8AB35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4715B8E4-5E65-438F-9087-BF5A6DC323DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4715B8E4-5E65-438F-9087-BF5A6DC323DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4715B8E4-5E65-438F-9087-BF5A6DC323DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4715B8E4-5E65-438F-9087-BF5A6DC323DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB69EC56-B59E-44B9-828F-93852F9E3318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB69EC56-B59E-44B9-828F-93852F9E3318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB69EC56-B59E-44B9-828F-93852F9E3318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB69EC56-B59E-44B9-828F-93852F9E3318}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E002149-FCC6-4729-A692-5AACB5E36415}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E002149-FCC6-4729-A692-5AACB5E36415}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E002149-FCC6-4729-A692-5AACB5E36415}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E002149-FCC6-4729-A692-5AACB5E36415}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\Users\Afranur\source\repos\okul\listboxlar arası geçiş\bin\Debug\net8.0-windows\listboxlar arası geçiş.exe
+C:\Users\Afranur\source\repos\okul\listboxlar arası geçiş\bin\Debug\net8.0-windows\listboxlar arası geçiş.deps.json
+C:\Users\Afranur\source\repos\okul\listboxlar arası geçiş\bin\Debug\net8.0-windows\listboxlar arası geçiş.runtimeconfig.json
+C:\Users\Afranur\source\repos\okul\listboxlar arası geçiş\bin\Debug\net8.0-windows\listboxlar arası geçiş.dll
+C:\Users\Afranur\source\repos\okul\listboxlar arası geçiş\bin\Debug\net8.0-windows\listboxlar arası geçiş.pdb
+C:\Users\Afranur\source\repos\okul\listboxlar arası geçiş\obj\Debug\net8.0-windows\listboxlar_arası_geçiş.Form1.resources
+C:\Users\Afranur\source\repos\okul\listboxlar arası geçiş\obj\Debug\net8.0-windows\listboxlar arası geçiş.csproj.GenerateResource.cache
+C:\Users\Afranur\source\repos\okul\listboxlar arası geçiş\obj\Debug\net8.0-windows\listboxlar arası geçiş.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Afranur\source\repos\okul\listboxlar arası geçiş\obj\Debug\net8.0-windows\listboxlar arası geçiş.AssemblyInfoInputs.cache
+C:\Users\Afranur\source\repos\okul\listboxlar arası geçiş\obj\Debug\net8.0-windows\listboxlar arası geçiş.AssemblyInfo.cs
+C:\Users\Afranur\source\repos\okul\listboxlar arası geçiş\obj\Debug\net8.0-windows\listboxlar arası geçiş.csproj.CoreCompileInputs.cache
+C:\Users\Afranur\source\repos\okul\listboxlar arası geçiş\obj\Debug\net8.0-windows\listboxlar arası geçiş.dll
+C:\Users\Afranur\source\repos\okul\listboxlar arası geçiş\obj\Debug\net8.0-windows\refint\listboxlar arası geçiş.dll
+C:\Users\Afranur\source\repos\okul\listboxlar arası geçiş\obj\Debug\net8.0-windows\listboxlar arası geçiş.pdb
+C:\Users\Afranur\source\repos\okul\listboxlar arası geçiş\obj\Debug\net8.0-windows\listboxlar arası geçiş.genruntimeconfig.cache
+C:\Users\Afranur\source\repos\okul\listboxlar arası geçiş\obj\Debug\net8.0-windows\ref\listboxlar arası geçiş.dll

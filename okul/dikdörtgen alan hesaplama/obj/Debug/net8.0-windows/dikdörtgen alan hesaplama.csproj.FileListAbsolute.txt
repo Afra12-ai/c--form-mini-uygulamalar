@@ -1,0 +1,16 @@
+C:\Users\Afranur\source\repos\okul\dikdörtgen alan hesaplama\bin\Debug\net8.0-windows\dikdörtgen alan hesaplama.exe
+C:\Users\Afranur\source\repos\okul\dikdörtgen alan hesaplama\bin\Debug\net8.0-windows\dikdörtgen alan hesaplama.deps.json
+C:\Users\Afranur\source\repos\okul\dikdörtgen alan hesaplama\bin\Debug\net8.0-windows\dikdörtgen alan hesaplama.runtimeconfig.json
+C:\Users\Afranur\source\repos\okul\dikdörtgen alan hesaplama\bin\Debug\net8.0-windows\dikdörtgen alan hesaplama.dll
+C:\Users\Afranur\source\repos\okul\dikdörtgen alan hesaplama\bin\Debug\net8.0-windows\dikdörtgen alan hesaplama.pdb
+C:\Users\Afranur\source\repos\okul\dikdörtgen alan hesaplama\obj\Debug\net8.0-windows\dikdörtgen_alan_hesaplama.Form1.resources
+C:\Users\Afranur\source\repos\okul\dikdörtgen alan hesaplama\obj\Debug\net8.0-windows\dikdörtgen alan hesaplama.csproj.GenerateResource.cache
+C:\Users\Afranur\source\repos\okul\dikdörtgen alan hesaplama\obj\Debug\net8.0-windows\dikdörtgen alan hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Afranur\source\repos\okul\dikdörtgen alan hesaplama\obj\Debug\net8.0-windows\dikdörtgen alan hesaplama.AssemblyInfoInputs.cache
+C:\Users\Afranur\source\repos\okul\dikdörtgen alan hesaplama\obj\Debug\net8.0-windows\dikdörtgen alan hesaplama.AssemblyInfo.cs
+C:\Users\Afranur\source\repos\okul\dikdörtgen alan hesaplama\obj\Debug\net8.0-windows\dikdörtgen alan hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Afranur\source\repos\okul\dikdörtgen alan hesaplama\obj\Debug\net8.0-windows\dikdörtgen alan hesaplama.dll
+C:\Users\Afranur\source\repos\okul\dikdörtgen alan hesaplama\obj\Debug\net8.0-windows\refint\dikdörtgen alan hesaplama.dll
+C:\Users\Afranur\source\repos\okul\dikdörtgen alan hesaplama\obj\Debug\net8.0-windows\dikdörtgen alan hesaplama.pdb
+C:\Users\Afranur\source\repos\okul\dikdörtgen alan hesaplama\obj\Debug\net8.0-windows\dikdörtgen alan hesaplama.genruntimeconfig.cache
+C:\Users\Afranur\source\repos\okul\dikdörtgen alan hesaplama\obj\Debug\net8.0-windows\ref\dikdörtgen alan hesaplama.dll

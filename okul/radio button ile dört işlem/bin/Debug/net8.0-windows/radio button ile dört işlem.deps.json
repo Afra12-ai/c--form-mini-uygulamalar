@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "radio button ile dört işlem/1.0.0": {
+        "runtime": {
+          "radio button ile dört işlem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "radio button ile dört işlem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

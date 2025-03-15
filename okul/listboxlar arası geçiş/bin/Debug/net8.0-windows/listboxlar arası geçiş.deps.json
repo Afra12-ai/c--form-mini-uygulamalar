@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "listboxlar arası geçiş/1.0.0": {
+        "runtime": {
+          "listboxlar arası geçiş.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "listboxlar arası geçiş/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

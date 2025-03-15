@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "girilen aralıkta sayı yazdırma/1.0.0": {
+        "runtime": {
+          "girilen aralıkta sayı yazdırma.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "girilen aralıkta sayı yazdırma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

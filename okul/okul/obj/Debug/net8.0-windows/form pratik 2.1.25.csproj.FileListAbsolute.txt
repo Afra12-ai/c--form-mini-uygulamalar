@@ -1,0 +1,16 @@
+C:\Users\Afranur\source\repos\okul\okul\bin\Debug\net8.0-windows\form pratik 2.1.25.exe
+C:\Users\Afranur\source\repos\okul\okul\bin\Debug\net8.0-windows\form pratik 2.1.25.deps.json
+C:\Users\Afranur\source\repos\okul\okul\bin\Debug\net8.0-windows\form pratik 2.1.25.runtimeconfig.json
+C:\Users\Afranur\source\repos\okul\okul\bin\Debug\net8.0-windows\form pratik 2.1.25.dll
+C:\Users\Afranur\source\repos\okul\okul\bin\Debug\net8.0-windows\form pratik 2.1.25.pdb
+C:\Users\Afranur\source\repos\okul\okul\obj\Debug\net8.0-windows\okul.Form1.resources
+C:\Users\Afranur\source\repos\okul\okul\obj\Debug\net8.0-windows\form pratik 2.1.25.csproj.GenerateResource.cache
+C:\Users\Afranur\source\repos\okul\okul\obj\Debug\net8.0-windows\form pratik 2.1.25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Afranur\source\repos\okul\okul\obj\Debug\net8.0-windows\form pratik 2.1.25.AssemblyInfoInputs.cache
+C:\Users\Afranur\source\repos\okul\okul\obj\Debug\net8.0-windows\form pratik 2.1.25.AssemblyInfo.cs
+C:\Users\Afranur\source\repos\okul\okul\obj\Debug\net8.0-windows\form pratik 2.1.25.csproj.CoreCompileInputs.cache
+C:\Users\Afranur\source\repos\okul\okul\obj\Debug\net8.0-windows\form pratik 2.1.25.dll
+C:\Users\Afranur\source\repos\okul\okul\obj\Debug\net8.0-windows\refint\form pratik 2.1.25.dll
+C:\Users\Afranur\source\repos\okul\okul\obj\Debug\net8.0-windows\form pratik 2.1.25.pdb
+C:\Users\Afranur\source\repos\okul\okul\obj\Debug\net8.0-windows\form pratik 2.1.25.genruntimeconfig.cache
+C:\Users\Afranur\source\repos\okul\okul\obj\Debug\net8.0-windows\ref\form pratik 2.1.25.dll

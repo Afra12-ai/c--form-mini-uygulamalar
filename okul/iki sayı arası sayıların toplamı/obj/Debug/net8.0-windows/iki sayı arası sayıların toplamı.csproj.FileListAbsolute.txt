@@ -1,0 +1,16 @@
+C:\Users\Afranur\source\repos\okul\iki sayı arası sayıların toplamı\bin\Debug\net8.0-windows\iki sayı arası sayıların toplamı.exe
+C:\Users\Afranur\source\repos\okul\iki sayı arası sayıların toplamı\bin\Debug\net8.0-windows\iki sayı arası sayıların toplamı.deps.json
+C:\Users\Afranur\source\repos\okul\iki sayı arası sayıların toplamı\bin\Debug\net8.0-windows\iki sayı arası sayıların toplamı.runtimeconfig.json
+C:\Users\Afranur\source\repos\okul\iki sayı arası sayıların toplamı\bin\Debug\net8.0-windows\iki sayı arası sayıların toplamı.dll
+C:\Users\Afranur\source\repos\okul\iki sayı arası sayıların toplamı\bin\Debug\net8.0-windows\iki sayı arası sayıların toplamı.pdb
+C:\Users\Afranur\source\repos\okul\iki sayı arası sayıların toplamı\obj\Debug\net8.0-windows\iki_sayı_arası_sayıların_toplamı.Form1.resources
+C:\Users\Afranur\source\repos\okul\iki sayı arası sayıların toplamı\obj\Debug\net8.0-windows\iki sayı arası sayıların toplamı.csproj.GenerateResource.cache
+C:\Users\Afranur\source\repos\okul\iki sayı arası sayıların toplamı\obj\Debug\net8.0-windows\iki sayı arası sayıların toplamı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Afranur\source\repos\okul\iki sayı arası sayıların toplamı\obj\Debug\net8.0-windows\iki sayı arası sayıların toplamı.AssemblyInfoInputs.cache
+C:\Users\Afranur\source\repos\okul\iki sayı arası sayıların toplamı\obj\Debug\net8.0-windows\iki sayı arası sayıların toplamı.AssemblyInfo.cs
+C:\Users\Afranur\source\repos\okul\iki sayı arası sayıların toplamı\obj\Debug\net8.0-windows\iki sayı arası sayıların toplamı.csproj.CoreCompileInputs.cache
+C:\Users\Afranur\source\repos\okul\iki sayı arası sayıların toplamı\obj\Debug\net8.0-windows\iki sayı arası sayıların toplamı.dll
+C:\Users\Afranur\source\repos\okul\iki sayı arası sayıların toplamı\obj\Debug\net8.0-windows\refint\iki sayı arası sayıların toplamı.dll
+C:\Users\Afranur\source\repos\okul\iki sayı arası sayıların toplamı\obj\Debug\net8.0-windows\iki sayı arası sayıların toplamı.pdb
+C:\Users\Afranur\source\repos\okul\iki sayı arası sayıların toplamı\obj\Debug\net8.0-windows\iki sayı arası sayıların toplamı.genruntimeconfig.cache
+C:\Users\Afranur\source\repos\okul\iki sayı arası sayıların toplamı\obj\Debug\net8.0-windows\ref\iki sayı arası sayıların toplamı.dll

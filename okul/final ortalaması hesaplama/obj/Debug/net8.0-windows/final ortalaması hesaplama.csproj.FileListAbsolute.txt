@@ -1,0 +1,16 @@
+C:\Users\Afranur\source\repos\okul\final ortalaması hesaplama\obj\Debug\net8.0-windows\final_ortalaması_hesaplama.Form1.resources
+C:\Users\Afranur\source\repos\okul\final ortalaması hesaplama\obj\Debug\net8.0-windows\final ortalaması hesaplama.csproj.GenerateResource.cache
+C:\Users\Afranur\source\repos\okul\final ortalaması hesaplama\obj\Debug\net8.0-windows\final ortalaması hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Afranur\source\repos\okul\final ortalaması hesaplama\obj\Debug\net8.0-windows\final ortalaması hesaplama.AssemblyInfoInputs.cache
+C:\Users\Afranur\source\repos\okul\final ortalaması hesaplama\obj\Debug\net8.0-windows\final ortalaması hesaplama.AssemblyInfo.cs
+C:\Users\Afranur\source\repos\okul\final ortalaması hesaplama\obj\Debug\net8.0-windows\final ortalaması hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Afranur\source\repos\okul\final ortalaması hesaplama\bin\Debug\net8.0-windows\final ortalaması hesaplama.exe
+C:\Users\Afranur\source\repos\okul\final ortalaması hesaplama\bin\Debug\net8.0-windows\final ortalaması hesaplama.deps.json
+C:\Users\Afranur\source\repos\okul\final ortalaması hesaplama\bin\Debug\net8.0-windows\final ortalaması hesaplama.runtimeconfig.json
+C:\Users\Afranur\source\repos\okul\final ortalaması hesaplama\bin\Debug\net8.0-windows\final ortalaması hesaplama.dll
+C:\Users\Afranur\source\repos\okul\final ortalaması hesaplama\bin\Debug\net8.0-windows\final ortalaması hesaplama.pdb
+C:\Users\Afranur\source\repos\okul\final ortalaması hesaplama\obj\Debug\net8.0-windows\final ortalaması hesaplama.dll
+C:\Users\Afranur\source\repos\okul\final ortalaması hesaplama\obj\Debug\net8.0-windows\refint\final ortalaması hesaplama.dll
+C:\Users\Afranur\source\repos\okul\final ortalaması hesaplama\obj\Debug\net8.0-windows\final ortalaması hesaplama.pdb
+C:\Users\Afranur\source\repos\okul\final ortalaması hesaplama\obj\Debug\net8.0-windows\final ortalaması hesaplama.genruntimeconfig.cache
+C:\Users\Afranur\source\repos\okul\final ortalaması hesaplama\obj\Debug\net8.0-windows\ref\final ortalaması hesaplama.dll

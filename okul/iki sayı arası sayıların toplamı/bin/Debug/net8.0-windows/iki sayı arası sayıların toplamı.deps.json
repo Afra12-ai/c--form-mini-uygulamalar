@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "iki sayı arası sayıların toplamı/1.0.0": {
+        "runtime": {
+          "iki sayı arası sayıların toplamı.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "iki sayı arası sayıların toplamı/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

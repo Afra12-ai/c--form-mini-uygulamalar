@@ -1,0 +1,10 @@
+C:\Users\Afranur\source\repos\okul\listboxtak\bin\Debug\listboxtak.exe.config
+C:\Users\Afranur\source\repos\okul\listboxtak\bin\Debug\listboxtak.exe
+C:\Users\Afranur\source\repos\okul\listboxtak\bin\Debug\listboxtak.pdb
+C:\Users\Afranur\source\repos\okul\listboxtak\obj\Debug\listboxdakileri topla.csproj.AssemblyReference.cache
+C:\Users\Afranur\source\repos\okul\listboxtak\obj\Debug\listboxtak.Form1.resources
+C:\Users\Afranur\source\repos\okul\listboxtak\obj\Debug\listboxtak.Properties.Resources.resources
+C:\Users\Afranur\source\repos\okul\listboxtak\obj\Debug\listboxdakileri topla.csproj.GenerateResource.cache
+C:\Users\Afranur\source\repos\okul\listboxtak\obj\Debug\listboxdakileri topla.csproj.CoreCompileInputs.cache
+C:\Users\Afranur\source\repos\okul\listboxtak\obj\Debug\listboxtak.exe
+C:\Users\Afranur\source\repos\okul\listboxtak\obj\Debug\listboxtak.pdb

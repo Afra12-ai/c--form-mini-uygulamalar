@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "form pratik 2.1.25/1.0.0": {
+        "runtime": {
+          "form pratik 2.1.25.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "form pratik 2.1.25/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

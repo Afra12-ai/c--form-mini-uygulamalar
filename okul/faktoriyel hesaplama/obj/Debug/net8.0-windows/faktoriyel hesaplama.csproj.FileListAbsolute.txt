@@ -1,0 +1,16 @@
+C:\Users\Afranur\source\repos\okul\faktoriyel hesaplama\bin\Debug\net8.0-windows\faktoriyel hesaplama.exe
+C:\Users\Afranur\source\repos\okul\faktoriyel hesaplama\bin\Debug\net8.0-windows\faktoriyel hesaplama.deps.json
+C:\Users\Afranur\source\repos\okul\faktoriyel hesaplama\bin\Debug\net8.0-windows\faktoriyel hesaplama.runtimeconfig.json
+C:\Users\Afranur\source\repos\okul\faktoriyel hesaplama\bin\Debug\net8.0-windows\faktoriyel hesaplama.dll
+C:\Users\Afranur\source\repos\okul\faktoriyel hesaplama\bin\Debug\net8.0-windows\faktoriyel hesaplama.pdb
+C:\Users\Afranur\source\repos\okul\faktoriyel hesaplama\obj\Debug\net8.0-windows\faktoriyel_hesaplama.Form1.resources
+C:\Users\Afranur\source\repos\okul\faktoriyel hesaplama\obj\Debug\net8.0-windows\faktoriyel hesaplama.csproj.GenerateResource.cache
+C:\Users\Afranur\source\repos\okul\faktoriyel hesaplama\obj\Debug\net8.0-windows\faktoriyel hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Afranur\source\repos\okul\faktoriyel hesaplama\obj\Debug\net8.0-windows\faktoriyel hesaplama.AssemblyInfoInputs.cache
+C:\Users\Afranur\source\repos\okul\faktoriyel hesaplama\obj\Debug\net8.0-windows\faktoriyel hesaplama.AssemblyInfo.cs
+C:\Users\Afranur\source\repos\okul\faktoriyel hesaplama\obj\Debug\net8.0-windows\faktoriyel hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Afranur\source\repos\okul\faktoriyel hesaplama\obj\Debug\net8.0-windows\faktoriyel hesaplama.dll
+C:\Users\Afranur\source\repos\okul\faktoriyel hesaplama\obj\Debug\net8.0-windows\refint\faktoriyel hesaplama.dll
+C:\Users\Afranur\source\repos\okul\faktoriyel hesaplama\obj\Debug\net8.0-windows\faktoriyel hesaplama.pdb
+C:\Users\Afranur\source\repos\okul\faktoriyel hesaplama\obj\Debug\net8.0-windows\faktoriyel hesaplama.genruntimeconfig.cache
+C:\Users\Afranur\source\repos\okul\faktoriyel hesaplama\obj\Debug\net8.0-windows\ref\faktoriyel hesaplama.dll

@@ -1,0 +1,16 @@
+C:\Users\Afranur\source\repos\okul\buton ile form açma\bin\Debug\net8.0-windows\buton ile form açma.exe
+C:\Users\Afranur\source\repos\okul\buton ile form açma\bin\Debug\net8.0-windows\buton ile form açma.deps.json
+C:\Users\Afranur\source\repos\okul\buton ile form açma\bin\Debug\net8.0-windows\buton ile form açma.runtimeconfig.json
+C:\Users\Afranur\source\repos\okul\buton ile form açma\bin\Debug\net8.0-windows\buton ile form açma.dll
+C:\Users\Afranur\source\repos\okul\buton ile form açma\bin\Debug\net8.0-windows\buton ile form açma.pdb
+C:\Users\Afranur\source\repos\okul\buton ile form açma\obj\Debug\net8.0-windows\buton_ile_form_açma.Form1.resources
+C:\Users\Afranur\source\repos\okul\buton ile form açma\obj\Debug\net8.0-windows\buton ile form açma.csproj.GenerateResource.cache
+C:\Users\Afranur\source\repos\okul\buton ile form açma\obj\Debug\net8.0-windows\buton ile form açma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Afranur\source\repos\okul\buton ile form açma\obj\Debug\net8.0-windows\buton ile form açma.AssemblyInfoInputs.cache
+C:\Users\Afranur\source\repos\okul\buton ile form açma\obj\Debug\net8.0-windows\buton ile form açma.AssemblyInfo.cs
+C:\Users\Afranur\source\repos\okul\buton ile form açma\obj\Debug\net8.0-windows\buton ile form açma.csproj.CoreCompileInputs.cache
+C:\Users\Afranur\source\repos\okul\buton ile form açma\obj\Debug\net8.0-windows\buton ile form açma.dll
+C:\Users\Afranur\source\repos\okul\buton ile form açma\obj\Debug\net8.0-windows\refint\buton ile form açma.dll
+C:\Users\Afranur\source\repos\okul\buton ile form açma\obj\Debug\net8.0-windows\buton ile form açma.pdb
+C:\Users\Afranur\source\repos\okul\buton ile form açma\obj\Debug\net8.0-windows\buton ile form açma.genruntimeconfig.cache
+C:\Users\Afranur\source\repos\okul\buton ile form açma\obj\Debug\net8.0-windows\ref\buton ile form açma.dll

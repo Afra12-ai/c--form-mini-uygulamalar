@@ -1,0 +1,16 @@
+C:\Users\Afranur\source\repos\okul\okul\obj\Debug\net8.0-windows\okul.Form1.resources
+C:\Users\Afranur\source\repos\okul\okul\obj\Debug\net8.0-windows\okul.csproj.GenerateResource.cache
+C:\Users\Afranur\source\repos\okul\okul\obj\Debug\net8.0-windows\okul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Afranur\source\repos\okul\okul\obj\Debug\net8.0-windows\okul.AssemblyInfoInputs.cache
+C:\Users\Afranur\source\repos\okul\okul\obj\Debug\net8.0-windows\okul.AssemblyInfo.cs
+C:\Users\Afranur\source\repos\okul\okul\obj\Debug\net8.0-windows\okul.csproj.CoreCompileInputs.cache
+C:\Users\Afranur\source\repos\okul\okul\bin\Debug\net8.0-windows\okul.exe
+C:\Users\Afranur\source\repos\okul\okul\bin\Debug\net8.0-windows\okul.deps.json
+C:\Users\Afranur\source\repos\okul\okul\bin\Debug\net8.0-windows\okul.runtimeconfig.json
+C:\Users\Afranur\source\repos\okul\okul\bin\Debug\net8.0-windows\okul.dll
+C:\Users\Afranur\source\repos\okul\okul\bin\Debug\net8.0-windows\okul.pdb
+C:\Users\Afranur\source\repos\okul\okul\obj\Debug\net8.0-windows\okul.dll
+C:\Users\Afranur\source\repos\okul\okul\obj\Debug\net8.0-windows\refint\okul.dll
+C:\Users\Afranur\source\repos\okul\okul\obj\Debug\net8.0-windows\okul.pdb
+C:\Users\Afranur\source\repos\okul\okul\obj\Debug\net8.0-windows\okul.genruntimeconfig.cache
+C:\Users\Afranur\source\repos\okul\okul\obj\Debug\net8.0-windows\ref\okul.dll

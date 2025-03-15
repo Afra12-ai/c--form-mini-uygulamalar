@@ -1,0 +1,16 @@
+C:\Users\Afranur\source\repos\okul\hesap makinesi\bin\Debug\net8.0-windows\hesap makinesi.exe
+C:\Users\Afranur\source\repos\okul\hesap makinesi\bin\Debug\net8.0-windows\hesap makinesi.deps.json
+C:\Users\Afranur\source\repos\okul\hesap makinesi\bin\Debug\net8.0-windows\hesap makinesi.runtimeconfig.json
+C:\Users\Afranur\source\repos\okul\hesap makinesi\bin\Debug\net8.0-windows\hesap makinesi.dll
+C:\Users\Afranur\source\repos\okul\hesap makinesi\bin\Debug\net8.0-windows\hesap makinesi.pdb
+C:\Users\Afranur\source\repos\okul\hesap makinesi\obj\Debug\net8.0-windows\hesap_makinesi.Form1.resources
+C:\Users\Afranur\source\repos\okul\hesap makinesi\obj\Debug\net8.0-windows\hesap makinesi.csproj.GenerateResource.cache
+C:\Users\Afranur\source\repos\okul\hesap makinesi\obj\Debug\net8.0-windows\hesap makinesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Afranur\source\repos\okul\hesap makinesi\obj\Debug\net8.0-windows\hesap makinesi.AssemblyInfoInputs.cache
+C:\Users\Afranur\source\repos\okul\hesap makinesi\obj\Debug\net8.0-windows\hesap makinesi.AssemblyInfo.cs
+C:\Users\Afranur\source\repos\okul\hesap makinesi\obj\Debug\net8.0-windows\hesap makinesi.csproj.CoreCompileInputs.cache
+C:\Users\Afranur\source\repos\okul\hesap makinesi\obj\Debug\net8.0-windows\hesap makinesi.dll
+C:\Users\Afranur\source\repos\okul\hesap makinesi\obj\Debug\net8.0-windows\refint\hesap makinesi.dll
+C:\Users\Afranur\source\repos\okul\hesap makinesi\obj\Debug\net8.0-windows\hesap makinesi.pdb
+C:\Users\Afranur\source\repos\okul\hesap makinesi\obj\Debug\net8.0-windows\hesap makinesi.genruntimeconfig.cache
+C:\Users\Afranur\source\repos\okul\hesap makinesi\obj\Debug\net8.0-windows\ref\hesap makinesi.dll
